@@ -1,0 +1,17 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+.instructions {
+    padding:15px 0;
+}
+
+.toplevel_page_planfy .dashicons-admin-generic:before {
+    content: "\f116";
+}
+
+.paragraphText a {
+    color: #0f6ecd;
+    font-weight:bold;
+}
